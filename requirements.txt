@@ -9,7 +9,6 @@ beautifulsoup4~=4.12.3
 soupsieve~=2.6
 h11~=0.14.0
 defusedxml~=0.7.1
-ipython~=8.29.0
 numpy~=1.26.4
 pillow~=11.0.0
 pip~=23.2.1
