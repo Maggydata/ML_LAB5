@@ -38,7 +38,6 @@ httpx~=0.28.0
 json5~=0.10.0
 overrides~=7.7.0
 charset-normalizer~=3.4.0
-scipy~=1.14.1
 threadpoolctl~=3.5.0
 platformdirs~=4.3.6
 argon2-cffi-bindings~=21.2.0
